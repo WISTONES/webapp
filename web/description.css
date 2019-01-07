@@ -1,0 +1,20 @@
+.welcome{
+    position:relative;
+    width:180px;
+    height:65px;
+    left:50%;
+    margin-left:-250px;
+    top:130px;
+}
+a{
+    text-decoration:none;
+}
+.username{
+    border-radius:12px;
+}
+.password{
+   border-radius:12px;
+}
+.submit{
+    border-radius:12px;
+}
